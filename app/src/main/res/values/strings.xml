@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AD36_NguyenDanhHuy_Day04</string>
+    <string name="user">Người dùng</string>
+    <string name="pass">Mật khẩu</string>
+    <string name="btn">Đăng nhập</string>
+    <string name="mnList">List Food</string>
+    <string name="mnCart">Cart</string>
+</resources>
